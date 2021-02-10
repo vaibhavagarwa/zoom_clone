@@ -14,15 +14,20 @@
 
 ## Screenshots - 
 
-One person using the room - 
-<img src="https://raw.githubusercontent.com/vaibhavagarwa/MemeGeneratorApp/master/msedge_nFYbRuOlb3.png"></img>
 
-Alert when second person tried -  
-<img src="https://raw.githubusercontent.com/vaibhavagarwa/MemeGeneratorApp/master/msedge_AkppSrHKUb.png"></img>
+1. One person using the room - 
 
-User can switch-off both audio & video -
-<img src="https://raw.githubusercontent.com/vaibhavagarwa/MemeGeneratorApp/master/msedge_bczuJPpVy9.png"></img>
+<img src="https://raw.githubusercontent.com/vaibhavagarwa/zoom_clone/master/msedge_nFYbRuOlb3.png"></img>
 
-Chat bar alongside video call - 
-<img src="https://raw.githubusercontent.com/vaibhavagarwa/MemeGeneratorApp/master/msedge_AS9Gcy724Q.png"></img>
+2. Alert when second person tried -  
+
+<img src="https://raw.githubusercontent.com/vaibhavagarwa/zoom_clone/master/msedge_AkppSrHKUb.png"></img>
+
+3. User can switch-off both audio & video -
+
+<img src="https://raw.githubusercontent.com/vaibhavagarwa/zoom_clone/master/msedge_bczuJPpVy9.png"></img>
+
+4. Chat bar alongside video call - 
+
+<img src="https://raw.githubusercontent.com/vaibhavagarwa/zoom_clone/master/msedge_AS9Gcy724Q.png"></img>
 
